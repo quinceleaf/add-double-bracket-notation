@@ -5,7 +5,8 @@
   "keywords": ["foam", "foam bubble", "wikilink", "wikilinks"],
   "author": "Brian Ibbotson",
   "publisher": "BrianIbbotson",
-  "repository": "",
+  "repository": "https://github.com/quinceleaf/add-double-bracket-notation",
+  "license": "MIT License",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.52.0"
